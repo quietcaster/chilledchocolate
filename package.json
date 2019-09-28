@@ -1,0 +1,15 @@
+{
+  "name": "chilledchocolate",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
